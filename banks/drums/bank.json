@@ -1,0 +1,1729 @@
+{
+ "id": "drums",
+ "name": "Batterie et percussions enregistrées",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "vd-kick-2-1",
+   "file": "vd-kick-2-1.flac",
+   "sr": 48000,
+   "seconds": 0.9,
+   "bytes": 58794,
+   "sha256": "fa0d17315d5c984b9c3c66e61c66ae627917104d80983cb8111d6b34ccd2fd81",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/kickmic/kick/kickmic_kick_snon_vl2_rr1.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/room/kick/room_kick_snon_vl2_rr1.flac",
+     "gain": 0.3,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-kick-3-1",
+   "file": "vd-kick-3-1.flac",
+   "sr": 48000,
+   "seconds": 0.9,
+   "bytes": 60141,
+   "sha256": "bcf79d380217902aa0a21e86a4983e9eb236f4816b67a3a1af8b370b3014293f",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/kickmic/kick/kickmic_kick_snon_vl3_rr1.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/room/kick/room_kick_snon_vl3_rr1.flac",
+     "gain": 0.3,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-kick-4-1",
+   "file": "vd-kick-4-1.flac",
+   "sr": 48000,
+   "seconds": 0.9,
+   "bytes": 60918,
+   "sha256": "306e605f05d888e72d8b5ad20da6def48ab21610e3bf54bb74756925fb511ccb",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/kickmic/kick/kickmic_kick_snon_vl4_rr1.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/room/kick/room_kick_snon_vl4_rr1.flac",
+     "gain": 0.3,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-kick-4-2",
+   "file": "vd-kick-4-2.flac",
+   "sr": 48000,
+   "seconds": 0.9,
+   "bytes": 61472,
+   "sha256": "0b6c3674051369f9e6f88ca063f17105bf4407c90cf4e44958708697125c6ec9",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/kickmic/kick/kickmic_kick_snon_vl4_rr2.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/room/kick/room_kick_snon_vl4_rr2.flac",
+     "gain": 0.3,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-kick-lofi-3",
+   "file": "vd-kick-lofi-3.flac",
+   "sr": 48000,
+   "seconds": 0.8,
+   "bytes": 60705,
+   "sha256": "dfb6efd63180a0484fd349ecac17848cd536a4b4bd1692db6e8ac1f641af30c3",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/lofi/kick/lofi_kick_snon_vl3_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snare-8",
+   "file": "vd-snare-8.flac",
+   "sr": 48000,
+   "seconds": 0.75,
+   "bytes": 63029,
+   "sha256": "ae006a945727a7eefb474ead6574eee471ffad095766cd9c145b05a6531a387a",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_center_vl8.flac",
+     "gain": 0.8,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snare/oh_snare_center_vl8.flac",
+     "gain": 0.45,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snare-16",
+   "file": "vd-snare-16.flac",
+   "sr": 48000,
+   "seconds": 0.75,
+   "bytes": 62444,
+   "sha256": "a0ca7addc007be08f18dd55802d40cdd3c55a86a840c68f348c212b910c99b11",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_center_vl16.flac",
+     "gain": 0.8,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snare/oh_snare_center_vl16.flac",
+     "gain": 0.45,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snare-24",
+   "file": "vd-snare-24.flac",
+   "sr": 48000,
+   "seconds": 0.75,
+   "bytes": 62293,
+   "sha256": "1493deaf1c1a15433d0eaed1e0f8959997bc7f6183af2eed39d613bf68fb68d6",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_center_vl24.flac",
+     "gain": 0.8,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snare/oh_snare_center_vl24.flac",
+     "gain": 0.45,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snare-32",
+   "file": "vd-snare-32.flac",
+   "sr": 48000,
+   "seconds": 0.75,
+   "bytes": 62355,
+   "sha256": "ca6f2f04aebbd91451f363b88a6aa19a1de578c6e472b8aa3da897775a415c13",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_center_vl32.flac",
+     "gain": 0.8,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snare/oh_snare_center_vl32.flac",
+     "gain": 0.45,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snare-36",
+   "file": "vd-snare-36.flac",
+   "sr": 48000,
+   "seconds": 0.75,
+   "bytes": 62573,
+   "sha256": "c1ce7e1d66a932b5555060516b78ec71c4ec10b9243930d16adb634197b264af",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_center_vl36.flac",
+     "gain": 0.8,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snare/oh_snare_center_vl36.flac",
+     "gain": 0.45,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-xstick-6",
+   "file": "vd-xstick-6.flac",
+   "sr": 48000,
+   "seconds": 0.45,
+   "bytes": 40806,
+   "sha256": "b3a9b632df35f534325b0c4869d7973a190f5a9381117632ad30e5123c82d551",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_crossstick_vl6.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-xstick-12",
+   "file": "vd-xstick-12.flac",
+   "sr": 48000,
+   "seconds": 0.45,
+   "bytes": 40089,
+   "sha256": "8ea0e95196520d60020d491fcb54420501bc601e3e703a0bf70de208f018246d",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_crossstick_vl12.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-xstick-16",
+   "file": "vd-xstick-16.flac",
+   "sr": 48000,
+   "seconds": 0.45,
+   "bytes": 40657,
+   "sha256": "41feaca96a35838fa04d5049a0e386754eadd423dffed29749e19275711dbbc9",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_crossstick_vl16.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snoff-6",
+   "file": "vd-snoff-6.flac",
+   "sr": 48000,
+   "seconds": 0.7,
+   "bytes": 54009,
+   "sha256": "0ab37edf992e953982cce10634f25063e3c69761e87870bcd8a24b74cacfb494",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snareoff/snaremic_snareoff_center_vl6.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snareoff/oh_snareoff_center_vl6.flac",
+     "gain": 0.4,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-snoff-12",
+   "file": "vd-snoff-12.flac",
+   "sr": 48000,
+   "seconds": 0.7,
+   "bytes": 55301,
+   "sha256": "81de2f5a0f46b1ff9749862e4865a0e409f46cf27bb3b381f977d5049f6bad2a",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snareoff/snaremic_snareoff_center_vl12.flac",
+     "gain": 0.85,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    },
+    {
+     "source": "vd",
+     "path": "Samples/oh/snareoff/oh_snareoff_center_vl12.flac",
+     "gain": 0.4,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-buzz-6",
+   "file": "vd-buzz-6.flac",
+   "sr": 48000,
+   "seconds": 0.8,
+   "bytes": 68847,
+   "sha256": "2a9a76046c3c2bf557937f4bc607d1190e8a2f0023d4ba5f0d40bc91b169ef46",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_buzz_vl6.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-buzz-12",
+   "file": "vd-buzz-12.flac",
+   "sr": 48000,
+   "seconds": 0.8,
+   "bytes": 67010,
+   "sha256": "7e71f786242fdcb51f2ee574f940e840b071ed880ac2d2d67962cb8aeef33eb1",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/snaremic/snare/snaremic_snare_buzz_vl12.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-closed-2-1",
+   "file": "vd-hh-closed-2-1.wav",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 48044,
+   "sha256": "ed609886b6374752c9c8a14c8e93e9bf1542163eb8f97096cede41c49f74befc",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_closed_vl2_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-closed-2-2",
+   "file": "vd-hh-closed-2-2.wav",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 48044,
+   "sha256": "5adf25af6b859d59c93363640ad4c79901f62bff5a7ce15228d58ebd806a0223",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_closed_vl2_rr2.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-closed-4-1",
+   "file": "vd-hh-closed-4-1.wav",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 48044,
+   "sha256": "7ec916490a07a1003ac282188c4c1ace26052cf856ce09bb9f3830e6943fe61a",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_closed_vl4_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-closed-4-2",
+   "file": "vd-hh-closed-4-2.wav",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 48044,
+   "sha256": "aede52c8396265bc6d8abc266b84e8d33491ba39ccb7c4447cf3a95b4ce69c40",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_closed_vl4_rr2.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-half-3",
+   "file": "vd-hh-half-3.flac",
+   "sr": 48000,
+   "seconds": 0.9,
+   "bytes": 86020,
+   "sha256": "8566c75ca51b50c719707367c9b94493e2ea900530db6d42345e2d5f69c49c59",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_half_vl3_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-hh-open-3",
+   "file": "vd-hh-open-3.wav",
+   "sr": 48000,
+   "seconds": 1.8,
+   "bytes": 172844,
+   "sha256": "d610ede7d60934b26d625b63edd617eef453117f2c15e24930514a7071749ce8",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/hh/oh_hh_open_vl3_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-ride-2-1",
+   "file": "vd-ride-2-1.wav",
+   "sr": 48000,
+   "seconds": 2.4,
+   "bytes": 230444,
+   "sha256": "feeaddde8c83df5026e7d2f82a160c4323c26a731c985d34d7746ccac7be6df6",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/ride/oh_ride_ride_vl2_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-ride-3-1",
+   "file": "vd-ride-3-1.wav",
+   "sr": 48000,
+   "seconds": 2.4,
+   "bytes": 230444,
+   "sha256": "db79995997616e74db7cc190293c792f3990f6c336b211cd1f2d03a948a6e852",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/ride/oh_ride_ride_vl3_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-bell-2-1",
+   "file": "vd-bell-2-1.wav",
+   "sr": 48000,
+   "seconds": 2.2,
+   "bytes": 211244,
+   "sha256": "bc6a73d1d4069ca1b54154cb2a41e05bfa83926542cdc621aa83c63ab9ba9891",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/ride/oh_ride_bell_vl2_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-crash-2-1",
+   "file": "vd-crash-2-1.flac",
+   "sr": 48000,
+   "seconds": 3.2,
+   "bytes": 295156,
+   "sha256": "6a66821484d55ad7fb281f31176a24c978cd8f7abd0e2fb598b1b608a2115998",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/crash/oh_crash_crash_vl2_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-sizzle-2-1",
+   "file": "vd-sizzle-2-1.flac",
+   "sr": 48000,
+   "seconds": 3.2,
+   "bytes": 303333,
+   "sha256": "8e4e178eda121acbaa9f5c344c4a3b393248c69dd650cc38dbbe285ab049a198",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/oh/crash/oh_crash_sizzle_vl2_rr1.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-htom-8",
+   "file": "vd-htom-8.flac",
+   "sr": 48000,
+   "seconds": 1.1,
+   "bytes": 83430,
+   "sha256": "eed76a20dfdbaac1295ef7c88a60a36c76f6b801697d15c4781f47aeef818366",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/mid/htom/mid_htom_center_vl8.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-htom-14",
+   "file": "vd-htom-14.flac",
+   "sr": 48000,
+   "seconds": 1.1,
+   "bytes": 84573,
+   "sha256": "a4b7b71687831ac0228b9c26bd94ee405e6b368a0448d55da0c5eb0e8488b53c",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/mid/htom/mid_htom_center_vl14.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-ltom-8",
+   "file": "vd-ltom-8.flac",
+   "sr": 48000,
+   "seconds": 1.3,
+   "bytes": 79993,
+   "sha256": "c5b2c06d28626cdf79e244a5a24daf6502dfead34f0c1498a4c1ca61445bc2d8",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/mid/ltom/mid_ltom_center_vl8.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-ltom-14",
+   "file": "vd-ltom-14.flac",
+   "sr": 48000,
+   "seconds": 1.3,
+   "bytes": 78860,
+   "sha256": "dd508bdd2656f436cdd045ac2fab61f69647ddf6c80043f559bd3bf109ef35f5",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/mid/ltom/mid_ltom_center_vl14.flac",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-conga-open-lo",
+   "file": "vd-conga-open-lo.flac",
+   "sr": 44100,
+   "seconds": 0.724,
+   "bytes": 14484,
+   "sha256": "8b359a486345e7431eb80790afa6e9f07448894857404ea33de94df06eb85125",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/conga/Conga_22_HitN_51_100_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-conga-open-hi",
+   "file": "vd-conga-open-hi.flac",
+   "sr": 44100,
+   "seconds": 0.822,
+   "bytes": 17092,
+   "sha256": "687a9775e6c5cce5c25b8355041903a7158d45d54da6448408b336f48df2ead8",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/conga/Conga_22_HitN_101_127_rr2_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-conga-mute",
+   "file": "vd-conga-mute.flac",
+   "sr": 44100,
+   "seconds": 0.5,
+   "bytes": 9508,
+   "sha256": "6fbc7ad7cd28dbdfe357c9acb5e1272b0150c0c346c34e51be21cecbdcd65ab8",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/conga/Conga_17_HitHM1_71_127_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-tumba",
+   "file": "vd-tumba.flac",
+   "sr": 44100,
+   "seconds": 0.699,
+   "bytes": 13932,
+   "sha256": "92517b7b6ce3ae3bd35348df996263dac5d6498ec412b52ab6d6a1259114290e",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/tumba/Tumba_24_HitN_71_100_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-bongo-hi-1",
+   "file": "vd-bongo-hi-1.flac",
+   "sr": 44100,
+   "seconds": 0.5,
+   "bytes": 10860,
+   "sha256": "fbafbcf2efafa9dc587cf5c4ae7db0e64be1be9de6c67fd2822894f6ae157f8e",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/bongoh/BongoH_Hit1_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-bongo-hi-2",
+   "file": "vd-bongo-hi-2.flac",
+   "sr": 44100,
+   "seconds": 0.5,
+   "bytes": 13027,
+   "sha256": "88abd06f60c13cafdb0357079e74c12e1ac5a6ed8f43a048fdad7e2b51a66c38",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/bongoh/BongoH_Hit1_v3_rr2_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-bongo-lo",
+   "file": "vd-bongo-lo.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 13046,
+   "sha256": "903a3ffcb63cc54536a9925696175ead5028ab2a6cea3465c9d9f15ec49edf39",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/bongol/BongoL_Hit1_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-cowbell-1",
+   "file": "vd-cowbell-1.flac",
+   "sr": 44100,
+   "seconds": 0.394,
+   "bytes": 9094,
+   "sha256": "98d8c983c9379e739c938e19b8a2fdb27e287522ddbdb0202b6fc5369512dc75",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/cowbell/Cowbell1_Normal_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-cowbell-2",
+   "file": "vd-cowbell-2.flac",
+   "sr": 44100,
+   "seconds": 0.398,
+   "bytes": 11655,
+   "sha256": "35545fa88effa35dfd401644dc417b36b4fd08a77de21ce187075cddd317875a",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/cowbell/Cowbell1_Normal_v3_rr2_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-agogo-hi",
+   "file": "vd-agogo-hi.flac",
+   "sr": 44100,
+   "seconds": 0.767,
+   "bytes": 25183,
+   "sha256": "68a4d4adbacddbe631d6512a4ea052d73c37a6db3b08464220cdf230f5dd5d01",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/agogo/Agogo_High_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-agogo-lo",
+   "file": "vd-agogo-lo.flac",
+   "sr": 44100,
+   "seconds": 0.8,
+   "bytes": 28933,
+   "sha256": "953ce945255c02c6b4ff6ed6e3d7040b2f99103c3f0bfde03764aeaec1110ebc",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/agogo/Agogo_Low_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-claves-1",
+   "file": "vd-claves-1.flac",
+   "sr": 44100,
+   "seconds": 0.318,
+   "bytes": 7621,
+   "sha256": "0f69efa0221180d3e838369c65f32d216e4560a51b0fb99e863897bbf90e1ac0",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/claves/Claves1_Hit_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-claves-2",
+   "file": "vd-claves-2.flac",
+   "sr": 44100,
+   "seconds": 0.31,
+   "bytes": 8445,
+   "sha256": "ed1fa3b37b2a41457231f4c4363d13b88bfe605f3e8ebe48f3cfc858aef8fddc",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/claves/Claves1_Hit_v3_rr3_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-shaker-d",
+   "file": "vd-shaker-d.flac",
+   "sr": 44100,
+   "seconds": 0.4,
+   "bytes": 21400,
+   "sha256": "3c8b096c19d77cbc2215049216d3d2e8c4363b8090bb3cc4da8983a174efa8ed",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/shaker/LShaker_Shake1D_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-shaker-u",
+   "file": "vd-shaker-u.flac",
+   "sr": 44100,
+   "seconds": 0.4,
+   "bytes": 21419,
+   "sha256": "492e46f3781d924926eecb8b333622c2c36743df9fd67365d0fae88a5128a018",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/shaker/LShaker_Shake1U_rr2_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-tamb-1",
+   "file": "vd-tamb-1.flac",
+   "sr": 44100,
+   "seconds": 0.512,
+   "bytes": 24966,
+   "sha256": "935a836d737b7db97df53ae826883f07ff731b4dc078ec073efeaac806c2426f",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/tambourine/Tamb1_Shake_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-tamb-2",
+   "file": "vd-tamb-2.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 30026,
+   "sha256": "db69a1c3402d035c1c387b1f5e8961356d28235066e253e2a8311f5b38042f85",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/tambourine/Tamb1_Shake_rr4_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-tri-open",
+   "file": "vd-tri-open.flac",
+   "sr": 44100,
+   "seconds": 2,
+   "bytes": 74077,
+   "sha256": "66dc9f4712b67178a523b6583beded233dca9f2de77e3eee2993ca78a1f4be08",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/triangle/Triangle1_Hit_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-tri-mute",
+   "file": "vd-tri-mute.flac",
+   "sr": 44100,
+   "seconds": 0.4,
+   "bytes": 19287,
+   "sha256": "8ab394d92fe5f2773883c2e3169ff5f199ea6d2576460928ca70c98b3a80db27",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/triangle/Triangle1_HitM_v1_rr2_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-woodblock-hi",
+   "file": "vd-woodblock-hi.flac",
+   "sr": 48000,
+   "seconds": 0.4,
+   "bytes": 16191,
+   "sha256": "555cc6519f60b8ef7ac1545ada782edc082681b70de5f94007f3d56126dacf6f",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/woodblock/woodblock_hi_vl4_rr1.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-woodblock-lo",
+   "file": "vd-woodblock-lo.flac",
+   "sr": 48000,
+   "seconds": 0.4,
+   "bytes": 16771,
+   "sha256": "f0d204e4a28b0daa44c728f4b1fe07aa75cea4a182995366e9609dfa0a0cde7d",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/woodblock/woodblock_lo_vl4_rr1.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-timbale-hi",
+   "file": "vd-timbale-hi.flac",
+   "sr": 48000,
+   "seconds": 0.89,
+   "bytes": 26901,
+   "sha256": "d0554738e38559640244d6c4166110fbc60b6c239c220945f1755ffa037a1f08",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/timbales/timb13_vl3_rr1.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-timbale-lo",
+   "file": "vd-timbale-lo.flac",
+   "sr": 48000,
+   "seconds": 0.978,
+   "bytes": 29240,
+   "sha256": "da9f78a757d54feabc0de544dda13c8b2d820ccadf4fc85c979ca1db58fc0326",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/timbales/timb14_vl3_rr1.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-cuica-1",
+   "file": "vd-cuica-1.flac",
+   "sr": 48000,
+   "seconds": 0.7,
+   "bytes": 19995,
+   "sha256": "a895e35a1ad9192bc97356e293000b50d80b0029a4d0d4c2e1574b5c076803fc",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/cuica/Long_p2_Main_vl1_rr1.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-cuica-2",
+   "file": "vd-cuica-2.flac",
+   "sr": 48000,
+   "seconds": 0.348,
+   "bytes": 10805,
+   "sha256": "d245cda2a56f38ccc19a35fc3ffa65e7c694e2969a609b0c8a5e1989a5376d9a",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/oh/cuica/Long_p7_Main_vl1_rr2.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-cabasa",
+   "file": "vd-cabasa.flac",
+   "sr": 44100,
+   "seconds": 0.231,
+   "bytes": 13015,
+   "sha256": "1abcaa3151564ebe9a0184c520cf4539895fb733bc64bdf5f1842a90e77883a7",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/cabasa/Cabasa1_Rub_v2_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-guiro",
+   "file": "vd-guiro.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 32924,
+   "sha256": "a5f21b0018b3c1716945cf4ad0b4c8db7d15257310701cfdb5112bb91ca064ea",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/guiro/Guiro_Med_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vd-vibraslap",
+   "file": "vd-vibraslap.flac",
+   "sr": 44100,
+   "seconds": 1.149,
+   "bytes": 56668,
+   "sha256": "54d60216a78660ca8e95dd64085d046a25929b29d7e4346b6147209beeb19cab",
+   "origin": [
+    {
+     "source": "vd",
+     "path": "Samples/perc/close/vibraslap/Vibraslap1_1_Hit_71_127_rr1_Close.wav",
+     "gain": 1,
+     "repo": "sfzinstruments/virtuosity_drums",
+     "commit": "9f04cf9a734527edfbb0a4eee1f674e45bbf71bc",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-clap-1",
+   "file": "vcsl-clap-1.flac",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 20069,
+   "sha256": "45b241328a9d8b9b2d52a16b85cb3c65243f980555a16e12f9734d6e4c4ee0fc",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Claps/Clap_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-clap-2",
+   "file": "vcsl-clap-2.flac",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 19702,
+   "sha256": "f3088174175911ee293027be6493cc955c1435a889568682a4c4a637da9e508e",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Claps/Clap_rr2.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-clap-3",
+   "file": "vcsl-clap-3.flac",
+   "sr": 48000,
+   "seconds": 0.5,
+   "bytes": 19889,
+   "sha256": "199b9fbd7994bf53304b87dbd0e8272437d02d8e30f1295f82b29638ca1777a2",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Claps/Clap_rr3.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-soloclap-2",
+   "file": "vcsl-soloclap-2.flac",
+   "sr": 44100,
+   "seconds": 0.195,
+   "bytes": 6186,
+   "sha256": "10f2f637fd8c53c047d87b8d3073dadb97dd2cf9df83209641cfceba79b2b17b",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Claps/SoloClap_vl2.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-soloclap-3",
+   "file": "vcsl-soloclap-3.flac",
+   "sr": 44100,
+   "seconds": 0.189,
+   "bytes": 6099,
+   "sha256": "a572650ed5af11674f1d69718e05ec834c9a21a9aa9234c485ce40b4cef36c4c",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Claps/SoloClap_vl3.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-darbuka-1",
+   "file": "vcsl-darbuka-1.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 16046,
+   "sha256": "ea0806a9db233fd990dec45d189ab5cb2483d6e45c6f582a2670a611acf79b56",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_1_hit_vl2_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-darbuka-2",
+   "file": "vcsl-darbuka-2.flac",
+   "sr": 44100,
+   "seconds": 0.537,
+   "bytes": 12921,
+   "sha256": "d74dba00634188c1d87d184e63837489a9c511e99427104697a33db8c9a6bb59",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_2_hit_vl2_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-darbuka-3",
+   "file": "vcsl-darbuka-3.flac",
+   "sr": 44100,
+   "seconds": 0.515,
+   "bytes": 12080,
+   "sha256": "dabd59aa0ec90ab9001812e5a0f416788d2bb9ed89849ff3b0746da3fa1d80bd",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_3_hit_vl2_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-darbuka-4",
+   "file": "vcsl-darbuka-4.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 13946,
+   "sha256": "2fc220a05fab58823364da2c7bf5b63f759efe84f7d615045c0b945086234783",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_4_hit_vl2_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-darbuka-5",
+   "file": "vcsl-darbuka-5.flac",
+   "sr": 44100,
+   "seconds": 0.56,
+   "bytes": 13505,
+   "sha256": "8d5d2ff91beff144930bbbb7ed281f29c5c02bfb52349e32a3d48fef8382592b",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Darbuka/Darbuka_5_hit_vl2_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-frame-lo",
+   "file": "vcsl-frame-lo.flac",
+   "sr": 44100,
+   "seconds": 1.3,
+   "bytes": 30205,
+   "sha256": "a152a1cb63b8fbed78e77b42fb3e288015f0aa1b654140cf5449a3de64bdea78",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_Hit_v3_rr1_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-frame-mute",
+   "file": "vcsl-frame-mute.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 17123,
+   "sha256": "4add333a2e3e89f7e0f4b16da00be8c02a56277ab94ef999231c97d5aace1610",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumL_HitMuted_v3_rr1_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-frame-hi",
+   "file": "vcsl-frame-hi.flac",
+   "sr": 44100,
+   "seconds": 0.9,
+   "bytes": 20867,
+   "sha256": "07b7e86f8bb6517a9a7472487f80afda72fe50d1e1c47487d9eb66cac392aa11",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Frame Drum/HDrumS_Hit_v3_rr2_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-cajon-bass",
+   "file": "vcsl-cajon-bass.flac",
+   "sr": 44100,
+   "seconds": 0.6,
+   "bytes": 13355,
+   "sha256": "37c1d2a1f4820548160be359d0f8d4580438171787996b4d27b27a53b76ecc6e",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit1_f_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-cajon-mid",
+   "file": "vcsl-cajon-mid.flac",
+   "sr": 44100,
+   "seconds": 0.5,
+   "bytes": 14669,
+   "sha256": "ad9275195ba1e191c277d9d549e8157919c15ce9cf6df2c79b70f8937c8366d8",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit2_f_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-cajon-slap",
+   "file": "vcsl-cajon-slap.flac",
+   "sr": 44100,
+   "seconds": 0.45,
+   "bytes": 13718,
+   "sha256": "91487d2e94998a2a42a0245e6b9c40488c8b1645559704f362550da9b989c705",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Cajon/Cajon_hit3_f_rr1.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-slit-hi",
+   "file": "vcsl-slit-hi.flac",
+   "sr": 44100,
+   "seconds": 1,
+   "bytes": 23153,
+   "sha256": "7fd75f870c8112fa8a0d543ebfa3cab01c92ccdac70b589f966055122f2a9bfa",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Slit Drum/LogDrumHi_MedM_v2_rr1_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-slit-lo",
+   "file": "vcsl-slit-lo.flac",
+   "sr": 44100,
+   "seconds": 0.841,
+   "bytes": 19973,
+   "sha256": "30712cb089a297b511035dc713bc9617abb80b26239cb805a1f5c62d3cb7b997",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Slit Drum/LogDrumLo_MedM_v2_rr1_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-brake-1",
+   "file": "vcsl-brake-1.flac",
+   "sr": 44100,
+   "seconds": 0.93,
+   "bytes": 29055,
+   "sha256": "78d6e72be3d2c2fe2088b604323053bee9847a39576a08848334ef22dea5b20d",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Brake Drum/BrakeDrum1_Hammer_v2_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-brake-2",
+   "file": "vcsl-brake-2.flac",
+   "sr": 44100,
+   "seconds": 0.894,
+   "bytes": 26070,
+   "sha256": "e867677acca24c0e06b8ce0c051815335489207a88cf9036cd62a8477ee49d09",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Brake Drum/BrakeDrum2_Hammer1_v2_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-anvil",
+   "file": "vcsl-anvil.flac",
+   "sr": 44100,
+   "seconds": 1.2,
+   "bytes": 47979,
+   "sha256": "21e77b6e33d711f9c10f446fbaa869d8042595dcbd84b4a861792c44a12178bf",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Anvil/Anvil_Hit2_v2_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-bassdrum",
+   "file": "vcsl-bassdrum.flac",
+   "sr": 44100,
+   "seconds": 2,
+   "bytes": 35624,
+   "sha256": "b09749fa6dd695ce852fd85984419d2ed51619a119f94a8d58ea56782f8df5be",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Membranophones/Struck Membranophones/Bass Drum 1/BDrumNew_hit_v5_rr1_Sum.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-fingercym",
+   "file": "vcsl-fingercym.flac",
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 81655,
+   "sha256": "6a9a9836c0d8eaba3b74ce3faef8739d7faac706b4ee38397ce9014fca4d5c4c",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Finger Cymbals/Fing_Cymb.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-hh-closed",
+   "file": "vcsl-hh-closed.flac",
+   "sr": 44100,
+   "seconds": 0.45,
+   "bytes": 20082,
+   "sha256": "b6b7b07141ff8631aa0363d0ba7462e3142e50b878d1789448906b6d8864278a",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Hi-Hat Cymbal/HiHat_HitC_v3_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-hh-open",
+   "file": "vcsl-hh-open.flac",
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 102606,
+   "sha256": "2a2717d49d0d4c7a1bfd03c8982a6ad8c6b5441af09ac4a098a9ee2e7c07bb5f",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Hi-Hat Cymbal/HiHat_HitO_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vcsl-hh-loose",
+   "file": "vcsl-hh-loose.flac",
+   "sr": 44100,
+   "seconds": 0.744,
+   "bytes": 38610,
+   "sha256": "6e3b67f90129996e669b23863063a5cef34a1cebb58786cbd9cc107a4d71dc8b",
+   "origin": [
+    {
+     "source": "vcsl",
+     "path": "Idiophones/Struck Idiophones/Hi-Hat Cymbal/HiHat_HitLoose_rr1_Mid.wav",
+     "gain": 1,
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono mix of the listed microphones, onset trim, length cap, fade-out, group peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ]
+}
