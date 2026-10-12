@@ -11,20 +11,22 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="color-scheme" content="dark light">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-r8jLA8Z1uslyVCcuyY2/SyK4HlWGud2wRCQ2bmPirpw='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-+GtxQN/labUZdgoTxSbZEMVOHn+FY0afbAPL9lHjg1o='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="theme-color" content="#0b0c10" id="themeColor">
 <meta name="description" content="MOTIF — créer de la musique au doigt : batterie, basse, mélodie, boucles et exports.">
 <title>MOTIF</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
-<link rel="stylesheet" href="styles.css?v=4cafe81cbc">
+<link rel="stylesheet" href="styles.css?v=62d0108dd4">
 <script>
   // Theme before first paint (no flash). Preference kept per device.
   (function () {
     try {
       var t = localStorage.getItem('motif3.theme') || 'dark';
       document.documentElement.dataset.theme = t;
+      var st = JSON.parse(localStorage.getItem('motif3.settings') || '{}');
+      if (st.glass === undefined ? false : st.glass) document.documentElement.setAttribute('data-glass', '');
       document.getElementById('themeColor').setAttribute('content', t === 'light' ? '#f3efe6' : '#0b0c10');
     } catch (e) {}
   })();
@@ -33,6 +35,6 @@
 <body>
 <div id="app" class="app" aria-live="off"></div>
 <noscript>MOTIF a besoin de JavaScript.</noscript>
-<script type="module" src="app.js?v=4cafe81cbc"></script>
+<script type="module" src="app.js?v=62d0108dd4"></script>
 </body>
 </html>
