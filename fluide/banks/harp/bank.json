@@ -1,0 +1,149 @@
+{
+ "id": "harp",
+ "name": "Harpe de concert",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "harp-B1",
+   "file": "B1.flac",
+   "root": 35,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 62847,
+   "sha256": "af8a1260b5e2f80ce0973598da74d24072e1c83126d60c3270dc587a852cf7ca",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Composite Chordophones/Concert Harp/KSHarp_B1_mf1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harp-A2",
+   "file": "A2.flac",
+   "root": 45,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 67390,
+   "sha256": "65ad7f04468cf8a1b444e20bba87da5b2d42a0b3b431ccc61b36b743b1aeb569",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Composite Chordophones/Concert Harp/KSHarp_A2_mf1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harp-B3",
+   "file": "B3.flac",
+   "root": 59,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 68382,
+   "sha256": "7498c2c4061aef9b161d09297215c9101a6f96b9d493aaf7fb7b57186b2a1cc0",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Composite Chordophones/Concert Harp/KSHarp_B3_mf1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harp-A4",
+   "file": "A4.flac",
+   "root": 69,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 69299,
+   "sha256": "5d500a699a5facb0b6b23933c429047f3d27af0dc5c39fe426b034ada48ad3d9",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Composite Chordophones/Concert Harp/KSHarp_A4_mf1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harp-B5",
+   "file": "B5.flac",
+   "root": 83,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 66428,
+   "sha256": "bea1dce01d804ef35f71f25f358ed3d032664e05ff63e197a786cd25e7994d1a",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Composite Chordophones/Concert Harp/KSHarp_B5_mf1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "harp",
+   "zones": [
+    {
+     "s": "harp-B1",
+     "root": 35,
+     "lo": 0,
+     "hi": 40
+    },
+    {
+     "s": "harp-A2",
+     "root": 45,
+     "lo": 41,
+     "hi": 52
+    },
+    {
+     "s": "harp-B3",
+     "root": 59,
+     "lo": 53,
+     "hi": 64
+    },
+    {
+     "s": "harp-A4",
+     "root": 69,
+     "lo": 65,
+     "hi": 76
+    },
+    {
+     "s": "harp-B5",
+     "root": 83,
+     "lo": 77,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

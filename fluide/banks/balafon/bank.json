@@ -1,0 +1,122 @@
+{
+ "id": "balafon",
+ "name": "Balafon",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "balafon-F3",
+   "file": "F3.flac",
+   "root": 53,
+   "sr": 44100,
+   "seconds": 0.74,
+   "bytes": 20700,
+   "sha256": "0ca3a6fc32b5e88ef77decce498ed2e710fff836454e66797441deb6a1b1e2b8",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Balafon/Hard Mallet/EthnicXylo_hardM_F3_vl2_rr1_Mid.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "balafon-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 0.866,
+   "bytes": 21159,
+   "sha256": "e1c41d0568fd934e825c5466292c444535ef05dcf887b885506261a464f7fa81",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Balafon/Hard Mallet/EthnicXylo_hardM_C4_vl2_rr1_Mid.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "balafon-F4",
+   "file": "F4.flac",
+   "root": 65,
+   "sr": 44100,
+   "seconds": 0.714,
+   "bytes": 18981,
+   "sha256": "8459b46e9d3a7e3d82362338c3de29684dcb137b49c64ee1dac8cc99b520497b",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Balafon/Hard Mallet/EthnicXylo_hardM_F4_vl2_rr1_Mid.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "balafon-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 0.795,
+   "bytes": 20276,
+   "sha256": "8e5748cd86aefe59454fc141225f7a3e733195ad1d0965fdfd4108b103528e31",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Balafon/Hard Mallet/EthnicXylo_hardM_C5_vl2_rr1_Mid.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "balafon",
+   "zones": [
+    {
+     "s": "balafon-F3",
+     "root": 53,
+     "lo": 0,
+     "hi": 56
+    },
+    {
+     "s": "balafon-C4",
+     "root": 60,
+     "lo": 57,
+     "hi": 62
+    },
+    {
+     "s": "balafon-F4",
+     "root": 65,
+     "lo": 63,
+     "hi": 68
+    },
+    {
+     "s": "balafon-C5",
+     "root": 72,
+     "lo": 69,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

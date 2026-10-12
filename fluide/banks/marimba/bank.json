@@ -1,0 +1,203 @@
+{
+ "id": "marimba",
+ "name": "Marimba",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "marimba-C2",
+   "file": "C2.flac",
+   "root": 36,
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 29829,
+   "sha256": "de3e5bb7490c89a8e2b72a7bbf096424bec53c6c3820023e37fda58d7b11253e",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_C2_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-G2",
+   "file": "G2.flac",
+   "root": 43,
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 30070,
+   "sha256": "eba8db43ff11bb14950d81e1431b698360f294901b7f62bce767da2546287240",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_G2_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-F3",
+   "file": "F3.flac",
+   "root": 53,
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 28364,
+   "sha256": "42545e9e9bd5710762aaf401344b26b7dce0d0f04101ce4e896d7633f80b0584",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F3_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 1.6,
+   "bytes": 29036,
+   "sha256": "c3a47441b85991d7c183126f63f0e68c6d478095c20b564922b39485c9ade2da",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_C4_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-G4",
+   "file": "G4.flac",
+   "root": 67,
+   "sr": 44100,
+   "seconds": 1.218,
+   "bytes": 23833,
+   "sha256": "dbe9083aa5243b4c9ee8d64369a5a3d4588c1547060f8b778e9054afbedcce0f",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_G4_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-F5",
+   "file": "F5.flac",
+   "root": 77,
+   "sr": 44100,
+   "seconds": 1.315,
+   "bytes": 20946,
+   "sha256": "cb0241d0a338a63ad5adf63a7f5fdad08b2278bb29e07cff42c1a57ac38f5dfe",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_F5_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "marimba-C6",
+   "file": "C6.flac",
+   "root": 84,
+   "sr": 44100,
+   "seconds": 1.304,
+   "bytes": 21326,
+   "sha256": "7024fdbcb92474db92900d9bc30cdcfd1352b61e6a6b05fb0d0a252fd0bc44f3",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Marimba/Marimba_hit_Outrigger_C6_med_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "marimba",
+   "zones": [
+    {
+     "s": "marimba-C2",
+     "root": 36,
+     "lo": 0,
+     "hi": 39
+    },
+    {
+     "s": "marimba-G2",
+     "root": 43,
+     "lo": 40,
+     "hi": 48
+    },
+    {
+     "s": "marimba-F3",
+     "root": 53,
+     "lo": 49,
+     "hi": 56
+    },
+    {
+     "s": "marimba-C4",
+     "root": 60,
+     "lo": 57,
+     "hi": 63
+    },
+    {
+     "s": "marimba-G4",
+     "root": 67,
+     "lo": 64,
+     "hi": 72
+    },
+    {
+     "s": "marimba-F5",
+     "root": 77,
+     "lo": 73,
+     "hi": 80
+    },
+    {
+     "s": "marimba-C6",
+     "root": 84,
+     "lo": 81,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

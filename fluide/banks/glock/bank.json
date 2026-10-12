@@ -1,0 +1,149 @@
+{
+ "id": "glock",
+ "name": "Glockenspiel",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "glock-G4",
+   "file": "G4.flac",
+   "root": 67,
+   "sr": 44100,
+   "seconds": 1.8,
+   "bytes": 64498,
+   "sha256": "04b2c3ceb6d34fb95074ec3f1e0378ffd25507e6d2484941e2b58a3cb63f65dc",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_medium_G4_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "glock-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 1.8,
+   "bytes": 67421,
+   "sha256": "aac87d38299a0dd86abe317210ff87ceed3a012c2cf9b0ea47d0c3d4da1a05fb",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_medium_C5_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "glock-G5",
+   "file": "G5.flac",
+   "root": 79,
+   "sr": 44100,
+   "seconds": 1.8,
+   "bytes": 59142,
+   "sha256": "664be6b59da45293864567f75dde45ed2d5340d78efb251be9340cf1be8b3a74",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_medium_G5_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "glock-C6",
+   "file": "C6.flac",
+   "root": 84,
+   "sr": 44100,
+   "seconds": 1.8,
+   "bytes": 53957,
+   "sha256": "d98ff2beeb84658600797a656c68cefc97c4aa1f3bbff6407156ccbfabbaad77",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_medium_C6_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "glock-G6",
+   "file": "G6.flac",
+   "root": 91,
+   "sr": 44100,
+   "seconds": 1.8,
+   "bytes": 57033,
+   "sha256": "6f8deb92d750b86feae7218a9cc21383fafa9bd933dd0593ef9c2ee818fa3c1c",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Glockenspiel/glock_medium_G6_01.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "glock",
+   "zones": [
+    {
+     "s": "glock-G4",
+     "root": 67,
+     "lo": 0,
+     "hi": 69
+    },
+    {
+     "s": "glock-C5",
+     "root": 72,
+     "lo": 70,
+     "hi": 75
+    },
+    {
+     "s": "glock-G5",
+     "root": 79,
+     "lo": 76,
+     "hi": 81
+    },
+    {
+     "s": "glock-C6",
+     "root": 84,
+     "lo": 82,
+     "hi": 87
+    },
+    {
+     "s": "glock-G6",
+     "root": 91,
+     "lo": 88,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

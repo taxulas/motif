@@ -1,0 +1,182 @@
+{
+ "id": "harmonica",
+ "name": "Harmonica",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "harmonica-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 126023,
+   "sha256": "77c494d517e56807e91e907b15c8d057cda5b5faca200dff32cfdcea72507d01",
+   "loopStart": 73844,
+   "loopEnd": 87318,
+   "loopScore": 0.975,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C3.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harmonica-E3",
+   "file": "E3.flac",
+   "root": 52,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 135960,
+   "sha256": "43a47b20749da86308022df33d995123dec2a9b670a0d38a00b921525924d821",
+   "loopStart": 74342,
+   "loopEnd": 87318,
+   "loopScore": 0.991,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_E3.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harmonica-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 141812,
+   "sha256": "f30c9b61ee6d8cd5428b5e9736dd3ba6694ac39d66dfcbb2b73b6104c9550128",
+   "loopStart": 73999,
+   "loopEnd": 87318,
+   "loopScore": 0.99,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C4.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harmonica-G4",
+   "file": "G4.flac",
+   "root": 67,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 149765,
+   "sha256": "a46881a89e1dffa785a6c550c343f6c7f976674b89ba21738b21c34cc520062f",
+   "loopStart": 74143,
+   "loopEnd": 87318,
+   "loopScore": 0.994,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_G4.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harmonica-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 149395,
+   "sha256": "f013c8fafc8412c27dc1812f8d91c684c3c1950a67a27c02fac927fecf881e6c",
+   "loopStart": 74113,
+   "loopEnd": 87318,
+   "loopScore": 0.996,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_C5.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "harmonica-G5",
+   "file": "G5.flac",
+   "root": 79,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 151481,
+   "sha256": "89bcc1e394cd12f254c7a59958a995b60392ef4bf03ace005877f28406d47c2d",
+   "loopStart": 74055,
+   "loopEnd": 87318,
+   "loopScore": 0.995,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Free Aerophones/Harmonica-Hohner-Special20-C/Sustains/Normal/Hohner-Special20_Normal_G5.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "harmonica",
+   "zones": [
+    {
+     "s": "harmonica-C3",
+     "root": 48,
+     "lo": 0,
+     "hi": 50
+    },
+    {
+     "s": "harmonica-E3",
+     "root": 52,
+     "lo": 51,
+     "hi": 56
+    },
+    {
+     "s": "harmonica-C4",
+     "root": 60,
+     "lo": 57,
+     "hi": 63
+    },
+    {
+     "s": "harmonica-G4",
+     "root": 67,
+     "lo": 64,
+     "hi": 69
+    },
+    {
+     "s": "harmonica-C5",
+     "root": 72,
+     "lo": 70,
+     "hi": 75
+    },
+    {
+     "s": "harmonica-G5",
+     "root": 79,
+     "lo": 76,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

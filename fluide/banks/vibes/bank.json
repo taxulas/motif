@@ -1,0 +1,176 @@
+{
+ "id": "vibes",
+ "name": "Vibraphone",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "vibes-F2",
+   "file": "F2.flac",
+   "root": 41,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 58024,
+   "sha256": "3091ad4f0214ca3367ec952e8c70a1acc2f5a3df1723f08a38393d767cda994f",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_F2_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vibes-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 66773,
+   "sha256": "506b2639310692b012cf1782cacabd95608a926c7ce2e229cf7d17f6ce5a96dd",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_C3_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vibes-G3",
+   "file": "G3.flac",
+   "root": 55,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 72546,
+   "sha256": "d9cc619baf949e9865a19f060a64d9b766216a38141dd885723b41d5c7df73a9",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_G3_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vibes-D4",
+   "file": "D4.flac",
+   "root": 62,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 75928,
+   "sha256": "07138b402e855fcbce5d91e21d725dd03e90a3d3b4388255059c986f4046d720",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_D4_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vibes-A4",
+   "file": "A4.flac",
+   "root": 69,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 69955,
+   "sha256": "9ead52c3dd51cb6aa664933f24c9ace7709c9c8bf6a921bd3b3e86372c63a3d6",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_A4_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "vibes-E5",
+   "file": "E5.flac",
+   "root": 76,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 68523,
+   "sha256": "3649f46ebd105d224fc2f616fc738cbb0dd55827c294056dc2e2b023207ca76d",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Vibraphone/Soft Mallets/Vibes_soft_E5_v2_rr1_Main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "vibes",
+   "zones": [
+    {
+     "s": "vibes-F2",
+     "root": 41,
+     "lo": 0,
+     "hi": 44
+    },
+    {
+     "s": "vibes-C3",
+     "root": 48,
+     "lo": 45,
+     "hi": 51
+    },
+    {
+     "s": "vibes-G3",
+     "root": 55,
+     "lo": 52,
+     "hi": 58
+    },
+    {
+     "s": "vibes-D4",
+     "root": 62,
+     "lo": 59,
+     "hi": 65
+    },
+    {
+     "s": "vibes-A4",
+     "root": 69,
+     "lo": 66,
+     "hi": 72
+    },
+    {
+     "s": "vibes-E5",
+     "root": 76,
+     "lo": 73,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}
