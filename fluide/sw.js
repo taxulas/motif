@@ -2,7 +2,7 @@
 // keyed by file content, so updates never re-download unchanged sounds.
 // Several MOTIF versions can live on one site (/motif/ and /motif/fluide/): caches are named after
 // the scope, and this worker only answers for its own files, never for another version's pages.
-const VERSION = '24d07a7019';
+const VERSION = 'd83c58b647';
 const SCOPE = self.registration.scope;
 const TAG = new URL(SCOPE).pathname.replace(/[^a-z0-9]+/gi, '-');
 const SHELL = `motif3${TAG}shell-${VERSION}`;
