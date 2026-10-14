@@ -11,23 +11,24 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="robots" content="noindex, nofollow, noarchive">
 <meta name="color-scheme" content="dark light">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-SbL5OrVFmEyQvh30/NEdS1uhGqGf1LzdFZ/gCuJX3ds='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-XwDpGUvuyt+N/I58/p7dF71u4+R1X7tCI7MmX1EOx6w='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'none'; form-action 'none'">
 <meta name="theme-color" content="#0b0c10" id="themeColor">
 <meta name="description" content="MOTIF — créer de la musique au doigt : batterie, basse, mélodie, boucles et exports.">
 <title>MOTIF Fluide</title>
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-180.png">
-<link rel="stylesheet" href="styles.css?v=f3a5f429ee">
+<link rel="stylesheet" href="styles.css?v=a7579e1ead">
 <script>
   // Theme before first paint (no flash). Preference kept per device.
   (function () {
     try {
       var t = localStorage.getItem('motif3-fluide.theme') || 'dark';
-      document.documentElement.dataset.theme = t;
+      if (t === 'halloween' && true) document.documentElement.setAttribute('data-halloween', '');
+      document.documentElement.dataset.theme = t === 'light' ? 'light' : 'dark';
       var st = JSON.parse(localStorage.getItem('motif3-fluide.settings') || '{}');
       if (st.glass === undefined ? true : st.glass) document.documentElement.setAttribute('data-glass', '');
-      document.getElementById('themeColor').setAttribute('content', t === 'light' ? '#f3efe6' : '#0b0c10');
+      document.getElementById('themeColor').setAttribute('content', t === 'light' ? '#f3efe6' : t === 'halloween' ? '#0a0612' : '#0b0c10');
     } catch (e) {}
   })();
 </script>
@@ -35,6 +36,6 @@
 <body>
 <div id="app" class="app" aria-live="off"></div>
 <noscript>MOTIF a besoin de JavaScript.</noscript>
-<script type="module" src="app.js?v=f3a5f429ee"></script>
+<script type="module" src="app.js?v=a7579e1ead"></script>
 </body>
 </html>
