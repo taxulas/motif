@@ -1,0 +1,149 @@
+{
+ "id": "chimes",
+ "name": "Cloches à main",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "chimes-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 81836,
+   "sha256": "571bdecb9bed814c617732463ce72acfe2913aefd4cf8aefe5728265552e6897",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_C3_r01_main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "chimes-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 75457,
+   "sha256": "e445784d8698ad342177f22120e476e28961450a967b23669f62e45968675306",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_C4_r01_main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "chimes-A4",
+   "file": "A4.flac",
+   "root": 69,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 66017,
+   "sha256": "aeaf7dd06832dd43493c23279e5a786afc80dc0a9cb35298d6896686ac2c8edf",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_A4_r01_main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "chimes-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 3,
+   "bytes": 76470,
+   "sha256": "d1fbb364cc83b5cee5f0fc64909ea7ff53c80d51b75900d9ef583201fdc74e28",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_C5_r01_main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "chimes-C6",
+   "file": "C6.flac",
+   "root": 84,
+   "sr": 44100,
+   "seconds": 2.262,
+   "bytes": 45678,
+   "sha256": "1e4ff6a30a7ffad8e9fc639f4a5caecc7df2df034f0b40934537bd0ebd22b8a4",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Struck Idiophones/Hand Chimes/sus_C6_r01_main.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "chimes",
+   "zones": [
+    {
+     "s": "chimes-C3",
+     "root": 48,
+     "lo": 0,
+     "hi": 54
+    },
+    {
+     "s": "chimes-C4",
+     "root": 60,
+     "lo": 55,
+     "hi": 64
+    },
+    {
+     "s": "chimes-A4",
+     "root": 69,
+     "lo": 65,
+     "hi": 70
+    },
+    {
+     "s": "chimes-C5",
+     "root": 72,
+     "lo": 71,
+     "hi": 78
+    },
+    {
+     "s": "chimes-C6",
+     "root": 84,
+     "lo": 79,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

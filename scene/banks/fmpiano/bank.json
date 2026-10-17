@@ -1,0 +1,176 @@
+{
+ "id": "fmpiano",
+ "name": "Piano FM TX81Z",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "fmpiano-C1",
+   "file": "C1.flac",
+   "root": 24,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 105948,
+   "sha256": "052f4c2c2a9283e3a75a5968ae977131467f24b8555b174a66549c27d6ab2515",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C1_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "fmpiano-C2",
+   "file": "C2.flac",
+   "root": 36,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 109864,
+   "sha256": "b3111d81e1ab40575589cebbacd0b8cf4c64923060a9fc5c4dd59d97a4a9b82c",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C2_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "fmpiano-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 115474,
+   "sha256": "c0cbc91b55d2b007665636dcb363ae77a2ed9ec82fc3a14a36b25b080ae83815",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C3_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "fmpiano-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 121669,
+   "sha256": "7b9790c6d35400755fa0b1dd029aa91cf7a637548aa01d9f5b611261518614a8",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C4_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "fmpiano-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 127946,
+   "sha256": "d7b51b4853b1192e7afa4a89d47e122ed2d156994791ebf87376c698835cda89",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C5_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "fmpiano-C6",
+   "file": "C6.flac",
+   "root": 84,
+   "sr": 44100,
+   "seconds": 2.6,
+   "bytes": 128284,
+   "sha256": "a28fef9254a12a4856e9579fb578bc6c9b55e7f7c6701acf67f2d2308ef8567d",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Electrophones/TX81Z/FM Piano/FMPiano_C6_vl2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "fmpiano",
+   "zones": [
+    {
+     "s": "fmpiano-C1",
+     "root": 24,
+     "lo": 0,
+     "hi": 30
+    },
+    {
+     "s": "fmpiano-C2",
+     "root": 36,
+     "lo": 31,
+     "hi": 42
+    },
+    {
+     "s": "fmpiano-C3",
+     "root": 48,
+     "lo": 43,
+     "hi": 54
+    },
+    {
+     "s": "fmpiano-C4",
+     "root": 60,
+     "lo": 55,
+     "hi": 66
+    },
+    {
+     "s": "fmpiano-C5",
+     "root": 72,
+     "lo": 67,
+     "hi": 78
+    },
+    {
+     "s": "fmpiano-C6",
+     "root": 84,
+     "lo": 79,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

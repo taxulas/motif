@@ -1,0 +1,149 @@
+{
+ "id": "kalimba",
+ "name": "Kalimba",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "kalimba-B2",
+   "file": "B2.flac",
+   "root": 47,
+   "sr": 48000,
+   "seconds": 2.2,
+   "bytes": 58774,
+   "sha256": "6c73bbb299892f92727525da3fd32fddd4af04f3d99296fc0fdfa3d4f1f47cc5",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Plucked Idiophones/Kalimba, Kenya/Mbira6_Normal_MainSpirit_B2_k8_vl3_rr2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "kalimba-F#3",
+   "file": "Fs3.flac",
+   "root": 54,
+   "sr": 48000,
+   "seconds": 2.2,
+   "bytes": 86227,
+   "sha256": "bd4f1b9b9ab0847a8d8430a0ba0c9effefedd8d58c45cd6fc187ffdb4b7e4890",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Plucked Idiophones/Kalimba, Kenya/Mbira6_Normal_MainSpirit_F#3_k10_vl3_rr2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "kalimba-B3",
+   "file": "B3.flac",
+   "root": 59,
+   "sr": 48000,
+   "seconds": 2.2,
+   "bytes": 65488,
+   "sha256": "cfefe4ada7754a946a55e8c948f2b6726f3a922d11143843fac2d4855c999c7e",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Plucked Idiophones/Kalimba, Kenya/Mbira6_Normal_MainSpirit_B3_k12_vl3_rr2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "kalimba-D#4",
+   "file": "Ds4.flac",
+   "root": 63,
+   "sr": 48000,
+   "seconds": 1.972,
+   "bytes": 44693,
+   "sha256": "1b0960dbe8a7f58817b17870eded9cc7c94d3a6e58247517bd5181c2939c6c5b",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Plucked Idiophones/Kalimba, Kenya/Mbira6_Normal_MainSpirit_D#4_k13_vl3_rr2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "kalimba-A4",
+   "file": "A4.flac",
+   "root": 69,
+   "sr": 48000,
+   "seconds": 2.2,
+   "bytes": 54619,
+   "sha256": "9fe8a1cc2780d34b0cf5a7bf578e8ec1841538d63f7fa5387576b60b85775930",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Idiophones/Plucked Idiophones/Kalimba, Kenya/Mbira6_Normal_MainSpirit_A4_k1_vl3_rr2.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "kalimba",
+   "zones": [
+    {
+     "s": "kalimba-B2",
+     "root": 47,
+     "lo": 0,
+     "hi": 50
+    },
+    {
+     "s": "kalimba-F#3",
+     "root": 54,
+     "lo": 51,
+     "hi": 56
+    },
+    {
+     "s": "kalimba-B3",
+     "root": 59,
+     "lo": 57,
+     "hi": 61
+    },
+    {
+     "s": "kalimba-D#4",
+     "root": 63,
+     "lo": 62,
+     "hi": 66
+    },
+    {
+     "s": "kalimba-A4",
+     "root": 69,
+     "lo": 67,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

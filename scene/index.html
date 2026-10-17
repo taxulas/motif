@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="fr" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="MOTIF Scène">
+<meta name="application-name" content="MOTIF Scène">
+<meta name="format-detection" content="telephone=no">
+<meta name="robots" content="noindex, nofollow, noarchive">
+<meta name="color-scheme" content="dark light">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'sha256-NfTEiMoyC4gzC83RDoRh4h7pnCFNpjcPWWFFAL9JE6k='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; media-src 'self' blob:; connect-src 'self'; worker-src 'self' blob:; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta name="theme-color" content="#0b0c10" id="themeColor">
+<meta name="description" content="MOTIF — créer de la musique au doigt : batterie, basse, mélodie, boucles et exports.">
+<title>MOTIF Scène</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="stylesheet" href="styles.css?v=d0d6eef949">
+<script>
+  // Theme before first paint (no flash). Preference kept per device.
+  (function () {
+    try {
+      var t = localStorage.getItem('motif3-scene.theme') || 'dark';
+      if (t === 'halloween' && true) document.documentElement.setAttribute('data-halloween', '');
+      document.documentElement.dataset.theme = t === 'light' ? 'light' : 'dark';
+      var st = JSON.parse(localStorage.getItem('motif3-scene.settings') || '{}');
+      if (st.glass === undefined ? true : st.glass) document.documentElement.setAttribute('data-glass', '');
+      document.getElementById('themeColor').setAttribute('content', t === 'light' ? '#f3efe6' : t === 'halloween' ? '#0a0612' : '#0b0c10');
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<div id="app" class="app" aria-live="off"></div>
+<noscript>MOTIF a besoin de JavaScript.</noscript>
+<script type="module" src="app.js?v=d0d6eef949"></script>
+</body>
+</html>

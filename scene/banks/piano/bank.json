@@ -1,0 +1,257 @@
+{
+ "id": "piano",
+ "name": "Piano droit",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "piano-C2",
+   "file": "C2.flac",
+   "root": 36,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 67329,
+   "sha256": "4553776b9593cd9de11ddaf4f6126f80e32b5ca555143c9fde841602267f2209",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_C2_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-G2",
+   "file": "G2.flac",
+   "root": 43,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 71496,
+   "sha256": "466c4d1e7a1a30ffdcb02b24112f23b66b49ee3c53eb9544f231ad433adac8d6",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_G2_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 69767,
+   "sha256": "18d7948d4c84dbb1140ca2df8131ac2f3114e6d8a84d6a7f93333f5d7094c81a",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_C3_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-G3",
+   "file": "G3.flac",
+   "root": 55,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 59973,
+   "sha256": "d7b647ad02c01bc2365b54f17f2fd955bf09ad3be9b5deb92b75dd3327c1a508",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_G3_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 65377,
+   "sha256": "6bbda02bb9f4823685c9a7a291de76b970025dd433d72d1366f3be28a707b6a3",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_C4_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-G4",
+   "file": "G4.flac",
+   "root": 67,
+   "sr": 44100,
+   "seconds": 3.2,
+   "bytes": 61872,
+   "sha256": "a5ff8f023ba11939479b7a9fe6eff3abccb5528ea3a48999ad9989bf36d95543",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_G4_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-C5",
+   "file": "C5.flac",
+   "root": 72,
+   "sr": 44100,
+   "seconds": 2.947,
+   "bytes": 52143,
+   "sha256": "a5c46d922381ba33191ec25a23b53d7f2ccf51f969a64e26ff78398eed59b3c5",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_C5_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-G5",
+   "file": "G5.flac",
+   "root": 79,
+   "sr": 44100,
+   "seconds": 2.651,
+   "bytes": 47367,
+   "sha256": "9e2d558655e19a65ae2a1ccd6674035b9db3ea7e96da6ecbec2fccaa26550d87",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_G5_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "piano-C6",
+   "file": "C6.flac",
+   "root": 84,
+   "sr": 44100,
+   "seconds": 1.263,
+   "bytes": 25583,
+   "sha256": "497639fd9e771595df6f340dbe74ce5eddc11ac44d7c38f28aaeb54ddd7f2983",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Upright Piano, Yamaha/Sustains/Upright1_Sus_C6_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "piano",
+   "zones": [
+    {
+     "s": "piano-C2",
+     "root": 36,
+     "lo": 0,
+     "hi": 39
+    },
+    {
+     "s": "piano-G2",
+     "root": 43,
+     "lo": 40,
+     "hi": 45
+    },
+    {
+     "s": "piano-C3",
+     "root": 48,
+     "lo": 46,
+     "hi": 51
+    },
+    {
+     "s": "piano-G3",
+     "root": 55,
+     "lo": 52,
+     "hi": 57
+    },
+    {
+     "s": "piano-C4",
+     "root": 60,
+     "lo": 58,
+     "hi": 63
+    },
+    {
+     "s": "piano-G4",
+     "root": 67,
+     "lo": 64,
+     "hi": 69
+    },
+    {
+     "s": "piano-C5",
+     "root": 72,
+     "lo": 70,
+     "hi": 75
+    },
+    {
+     "s": "piano-G5",
+     "root": 79,
+     "lo": 76,
+     "hi": 81
+    },
+    {
+     "s": "piano-C6",
+     "root": 84,
+     "lo": 82,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

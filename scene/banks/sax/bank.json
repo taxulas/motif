@@ -1,0 +1,182 @@
+{
+ "id": "sax",
+ "name": "Saxophone ténor",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "sax-C2",
+   "file": "C2.flac",
+   "root": 36,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 108401,
+   "sha256": "bbe573fe9db373643b05bbc87e7a8ef68edbff1a8aa3dd05f18629f00d578a60",
+   "loopStart": 88638,
+   "loopEnd": 103680,
+   "loopScore": 0.998,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_C2_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "sax-A#2",
+   "file": "As2.flac",
+   "root": 46,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 100503,
+   "sha256": "54971b7fef240bf7045ac607b2daebaae6b8329814bc5f996eef0017c555f571",
+   "loopStart": 89677,
+   "loopEnd": 103680,
+   "loopScore": 0.995,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_A#2_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "sax-C3",
+   "file": "C3.flac",
+   "root": 48,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 99103,
+   "sha256": "1a5ea2586ae23e9fca9980044a0b33501cf4f7c296605984b67074cdb675f71c",
+   "loopStart": 89555,
+   "loopEnd": 103680,
+   "loopScore": 0.997,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_C3_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "sax-A#3",
+   "file": "As3.flac",
+   "root": 58,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 118500,
+   "sha256": "8d9273b56381872726db17064ac6344608089ea424b3444df4523aa5894d78ec",
+   "loopStart": 89165,
+   "loopEnd": 103680,
+   "loopScore": 0.999,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_A#3_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "sax-C4",
+   "file": "C4.flac",
+   "root": 60,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 124324,
+   "sha256": "e6c1e87c55f1d10b49e97c59aa968d3f8c6303299dc0e9f0d58bf2cb0b1770cb",
+   "loopStart": 89369,
+   "loopEnd": 103680,
+   "loopScore": 0.976,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_C4_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "sax-A#4",
+   "file": "As4.flac",
+   "root": 70,
+   "sr": 48000,
+   "seconds": 2.16,
+   "bytes": 140359,
+   "sha256": "bc9fc0d575c1873242cc48f5864a597c9d0854bda774b5ccab89ec7914771f05",
+   "loopStart": 89215,
+   "loopEnd": 103680,
+   "loopScore": 0.997,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Reed Aerophones/Tenor Saxophone/Non-Vibrato/BrettTenor_NV_Main_A#4_vl2_rr1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "sax",
+   "zones": [
+    {
+     "s": "sax-C2",
+     "root": 36,
+     "lo": 0,
+     "hi": 41
+    },
+    {
+     "s": "sax-A#2",
+     "root": 46,
+     "lo": 42,
+     "hi": 47
+    },
+    {
+     "s": "sax-C3",
+     "root": 48,
+     "lo": 48,
+     "hi": 53
+    },
+    {
+     "s": "sax-A#3",
+     "root": 58,
+     "lo": 54,
+     "hi": 59
+    },
+    {
+     "s": "sax-C4",
+     "root": 60,
+     "lo": 60,
+     "hi": 65
+    },
+    {
+     "s": "sax-A#4",
+     "root": 70,
+     "lo": 66,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

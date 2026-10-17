@@ -1,0 +1,149 @@
+{
+ "id": "dantranh",
+ "name": "Đàn tranh",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "dantranh-D#2",
+   "file": "Ds2.flac",
+   "root": 39,
+   "sr": 44100,
+   "seconds": 2.2,
+   "bytes": 55626,
+   "sha256": "009d200e283a4bd424adb5f8226a4d8828603c11d86fe5429dfd612ae6d17220",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Dan Tranh/Normal/D#2_f_1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "dantranh-B2",
+   "file": "B2.flac",
+   "root": 47,
+   "sr": 44100,
+   "seconds": 2.2,
+   "bytes": 51661,
+   "sha256": "68bff496f13d470fe2a5c1e06323870c57f615f611900f7d3a37c359f4043791",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Dan Tranh/Normal/B2_f_1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "dantranh-F#3",
+   "file": "Fs3.flac",
+   "root": 54,
+   "sr": 44100,
+   "seconds": 2.2,
+   "bytes": 49406,
+   "sha256": "9c18043da639b66dbfe9c926214bf22f14755bbfce9f2babd35ff5d34f961286",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Dan Tranh/Normal/F#3_f_1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "dantranh-C#4",
+   "file": "Cs4.flac",
+   "root": 61,
+   "sr": 44100,
+   "seconds": 2.2,
+   "bytes": 54108,
+   "sha256": "ef8c9585309f6d5493d45548c308c93ef2cc4e66ea2c490c3a5b26750d9c3f8a",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Dan Tranh/Normal/C#4_f_1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "dantranh-G#4",
+   "file": "Gs4.flac",
+   "root": 68,
+   "sr": 44100,
+   "seconds": 2.2,
+   "bytes": 53778,
+   "sha256": "77d81efaa5e4b25cd3a6754da1dca5d292640e680a0e48fe69302c96d947a4b1",
+   "loopStart": 0,
+   "loopEnd": 0,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Chordophones/Zithers/Dan Tranh/Normal/G#4_f_1.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "dantranh",
+   "zones": [
+    {
+     "s": "dantranh-D#2",
+     "root": 39,
+     "lo": 0,
+     "hi": 43
+    },
+    {
+     "s": "dantranh-B2",
+     "root": 47,
+     "lo": 44,
+     "hi": 50
+    },
+    {
+     "s": "dantranh-F#3",
+     "root": 54,
+     "lo": 51,
+     "hi": 57
+    },
+    {
+     "s": "dantranh-C#4",
+     "root": 61,
+     "lo": 58,
+     "hi": 64
+    },
+    {
+     "s": "dantranh-G#4",
+     "root": 68,
+     "lo": 65,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}

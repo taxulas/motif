@@ -1,0 +1,126 @@
+{
+ "id": "ocarina",
+ "name": "Ocarina",
+ "license": "CC0-1.0",
+ "samples": [
+  {
+   "id": "ocarina-A3",
+   "file": "A3.flac",
+   "root": 57,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 41706,
+   "sha256": "c161d82b0414b12319b86b92755956a52884531888351d88fff6ed670f287f16",
+   "loopStart": 74203,
+   "loopEnd": 87318,
+   "loopScore": 0.999,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_A3.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "ocarina-D4",
+   "file": "D4.flac",
+   "root": 62,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 51155,
+   "sha256": "dfb87a6fd81222f9943dfaf13099f33d4d9016fcce84b57be49387bb6ac6a5ee",
+   "loopStart": 73952,
+   "loopEnd": 87318,
+   "loopScore": 0.999,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_D4.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "ocarina-G#4",
+   "file": "Gs4.flac",
+   "root": 68,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 80478,
+   "sha256": "05fdb6c61ff4a37b45854035baa001b09f1fad6b51e1969f352d50d8fab361d3",
+   "loopStart": 74073,
+   "loopEnd": 87318,
+   "loopScore": 1,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_G#4.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  },
+  {
+   "id": "ocarina-C#5",
+   "file": "Cs5.flac",
+   "root": 73,
+   "sr": 44100,
+   "seconds": 1.98,
+   "bytes": 97749,
+   "sha256": "8574411d39d9d91f5d1982cedf00d1aaa6279f2465310a6456394045fe528127",
+   "loopStart": 74045,
+   "loopEnd": 87318,
+   "loopScore": 0.999,
+   "origin": [
+    {
+     "source": "vcsl",
+     "repo": "sgossner/VCSL",
+     "commit": "c1ea7bcc3c7309650ab0da9d15c9cd1fbc4a4c7e",
+     "path": "Aerophones/Edge-blown Aerophones/Ocarina, Typical/Sustains/Sus/StdOcarina_Sus_C#5.wav",
+     "license": "CC0-1.0"
+    }
+   ],
+   "transform": "mono, onset trim, length cap, fade-out, sustain loop with 50 ms baked crossfade, set peak normalisation to -1 dBFS, 16-bit FLAC"
+  }
+ ],
+ "sets": [
+  {
+   "id": "ocarina",
+   "zones": [
+    {
+     "s": "ocarina-A3",
+     "root": 57,
+     "lo": 0,
+     "hi": 59
+    },
+    {
+     "s": "ocarina-D4",
+     "root": 62,
+     "lo": 60,
+     "hi": 65
+    },
+    {
+     "s": "ocarina-G#4",
+     "root": 68,
+     "lo": 66,
+     "hi": 70
+    },
+    {
+     "s": "ocarina-C#5",
+     "root": 73,
+     "lo": 71,
+     "hi": 127
+    }
+   ]
+  }
+ ]
+}
